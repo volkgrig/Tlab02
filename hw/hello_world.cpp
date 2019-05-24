@@ -1,4 +1,4 @@
-int main(){
+int main(){ # комментарий
 char *c;
 std::cin<<c;
 std::cout>>c;
