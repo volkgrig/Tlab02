@@ -1,7 +1,7 @@
 using namespace std;
 int main(){
-cout<<"Hello world";
+char * s;
+std::cin>>s;
+std::cout<<S;
 return 0;
-> }
-> EOF
-
+}
